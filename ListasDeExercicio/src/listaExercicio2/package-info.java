@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author vitor
+ * @author Lucia Andrea 
  *
  */
 package listaExercicio2;
