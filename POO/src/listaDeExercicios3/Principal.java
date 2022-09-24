@@ -6,13 +6,13 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
-		PessoaFisica vitor = new PessoaFisica("vitor", "415.904.258-98");
-		vitor.setDataNascimento("15/08/2002");
+		PessoaFisica lucia = new PessoaFisica("lucia", "094.891.548-06");
+		lucia.setDataNascimento("19/09/1967");
 		
-		PessoaFisica outro = vitor;
+		PessoaFisica outro = lucia;
 		
 		System.out.println(outro);
-		System.out.println(vitor);
+		System.out.println(lucia);
 		
 		
 	}
